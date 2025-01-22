@@ -31,7 +31,8 @@ struct GroupArgs {
     file: Option<PathBuf>,
 }
 
-fn main() -> Result<(), Error> {
+#[tokio::main]
+async fn main() -> Result<(), Error> {
     let args = AppArgs::parse();
     // we can write a login:password in command line or load it from a file
     match args.command {
