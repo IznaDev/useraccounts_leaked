@@ -1,0 +1,10 @@
+/Users/oussamaboukh/Desktop/RUST/useraccount_telecomparis/target/release/deps/librustls_pki_types-e7de67df8fdbb053.rmeta: /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/lib.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/base64.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/server_name.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/pem.rs
+
+/Users/oussamaboukh/Desktop/RUST/useraccount_telecomparis/target/release/deps/librustls_pki_types-e7de67df8fdbb053.rlib: /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/lib.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/base64.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/server_name.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/pem.rs
+
+/Users/oussamaboukh/Desktop/RUST/useraccount_telecomparis/target/release/deps/rustls_pki_types-e7de67df8fdbb053.d: /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/lib.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/base64.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/server_name.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/pem.rs
+
+/Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/lib.rs:
+/Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/base64.rs:
+/Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/server_name.rs:
+/Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.1/src/pem.rs:

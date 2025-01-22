@@ -1,0 +1,10 @@
+/Users/oussamaboukh/Desktop/RUST/useraccount_telecomparis/target/debug/deps/libversion_check-e981dbfb6127ecaf.rmeta: /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs
+
+/Users/oussamaboukh/Desktop/RUST/useraccount_telecomparis/target/debug/deps/libversion_check-e981dbfb6127ecaf.rlib: /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs
+
+/Users/oussamaboukh/Desktop/RUST/useraccount_telecomparis/target/debug/deps/version_check-e981dbfb6127ecaf.d: /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs /Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs
+
+/Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs:
+/Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs:
+/Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs:
+/Users/oussamaboukh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs:

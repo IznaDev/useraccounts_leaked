@@ -1,0 +1,11 @@
+[package]
+name = "useraccount_leaked"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "3", features = ["derive"] }#crate qui permet de gérer la ligne de commande récuperer les arguments...
+indicatif = "0.17.9"
+rayon = "1.10.0"#crate qui permet de faire du parallélisme il fournit des itérateurs qui travaillent en parallèle en exploitant la capacité de tous les coeurs du processeur
+reqwest = { version = "0.12.12", features = ["blocking"] }
+sha1 = "0.10.6"#crate qui permet de faire du hash SHA-1
