@@ -14,7 +14,7 @@ dynila:iyvQ?
 
 We make a simple  get request to the API to retrieve the hashing suffix of  leaked passwords  with the crate reqwest. 
 
-In the next step we will do asuynchronous request with tokio. 
+I did asuynchronous function to ping a port indicated in the command line (ip host port number) with tokio. 
 
 The code is made up from 3 modules: account, error, hibp and a main.
 
