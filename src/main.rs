@@ -5,6 +5,8 @@ use std::path::PathBuf;
 mod account;
 mod error;
 mod hibp;
+mod scanner;
+
 use clap::{Args, Error, Parser, Subcommand};
 
 // parser clap definition
@@ -19,6 +21,14 @@ struct AppArgs {
 enum Command {
     /// Check duplicate passwords from command line
     Group(GroupArgs),
+
+    /// Check if a port is open
+    Ping {
+        /// Host name or IP address
+        host: String,
+        /// Port number
+        port: u16,
+    },
 }
 
 #[derive(Args)]
@@ -79,6 +89,15 @@ async fn main() -> Result<(), Error> {
                 }
             } else {
                 println!("you have to right an argument !!!!")
+            }
+        }
+        Command::Ping { host, port } => {
+            let is_open = scanner::net::tcp_ping(host.as_str(), port).await;
+            let address = format!("{}:{}", host, port);
+            if is_open {
+                println!("\n    {} is open 😁\n", &address);
+            } else {
+                println!("\n    {} is closed 😤\n", &address);
             }
         }
     }
