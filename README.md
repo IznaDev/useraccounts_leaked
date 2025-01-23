@@ -6,7 +6,9 @@ In this code I offer to check if your account was leaked thanks to the API  "Hav
 You can create a file with lot of "login:password" with this shape. one "login:password" per line like the exemple bellow :
 
 clibbord:d8pJ
+
 shemia:hJxBuMUyp?
+
 dynila:iyvQ?
 ...
 
